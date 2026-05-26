@@ -1,0 +1,9 @@
+alias,barcode_id,sample_pool_name,species,private_genetic_data,condition
+Sample_01,LES-25-0005,KONT1A,Homo_sapiens,No,KOuntreat
+Sample_02,LES-25-0008,KOIB1B,Homo_sapiens,No,KOtreat
+Sample_03,LES-25-0002,WTNT1B,Homo_sapiens,No,CTRL
+Sample_04,LES-25-0001,WTNT1A,Homo_sapiens,No,CTRL
+Sample_05,LES-25-0006,KONT1B,Homo_sapiens,No,KOuntreat
+Sample_06,LES-25-0007,KOIB1A,Homo_sapiens,No,KOtreat
+Sample_07,LES-25-0003,WTIB1A,Homo_sapiens,No,CTRLTreat
+Sample_08,LES-25-0004,WTIB1B,Homo_sapiens,No,CTRLTreat

@@ -1,0 +1,32 @@
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python envs
+.venv/
+venv/
+env/
+
+# Data & results (keep out of git)
+data/
+results/
+
+# Common heavy single-cell artifacts
+*.h5ad
+*.loom
+*.h5
+*.rds
+*.pkl
+*.pickle
+*.parquet
+*.feather
+*.csv.gz
+*.tsv.gz
+
+# Cache / temp
+__pycache__/
+*.pyc

@@ -1,0 +1,10 @@
+scanpy
+anndata
+gprofiler-official
+pandas
+numpy
+seaborn
+scikit-image
+matplotlib
+xlsxwriter
+openpyxl

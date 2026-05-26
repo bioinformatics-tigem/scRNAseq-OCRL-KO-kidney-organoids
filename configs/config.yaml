@@ -1,0 +1,14 @@
+paths:
+  data_root: "/Users/alessandro/Downloads/Data"
+  outdir_anndata: "results/anndata"
+  outdir_figures: "results/figures"
+  outdir_deg: "results/deg"
+
+
+  # Functional analysis (gProfiler notebook)
+  input_gene_expression: "results/gene_expression"
+  outdir_gprofiler: "results/gprofiler"
+  #gProfiler bubbleplot inputs (Excel files)
+  gprofiler_renal_xlsx_dir: "results/gprofiler_all/Renal"
+  # gProfiler bubbleplot outputs (figures)
+  gprofiler_renal_fig_dir: "results/figures/gprofiler_all/Renal/Figures1"

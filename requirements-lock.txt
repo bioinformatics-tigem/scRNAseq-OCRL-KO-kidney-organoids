@@ -1,0 +1,10 @@
+scanpy==1.11.5
+anndata==0.12.6
+gprofiler-official==1.0.0
+pandas==2.3.3
+numpy==2.3.5
+seaborn==0.13.2
+scikit-image==0.25.2
+matplotlib==3.10.7
+xlsxwriter==3.2.9
+openpyxl==3.1.5
